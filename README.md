@@ -22,17 +22,20 @@ Object-Oriented Programming (OOP) is a programming paradigm that structures code
 Definition: Encapsulation involves bundling data (attributes) and methods within a class while restricting direct access from outside.
 Purpose: Protects data by only allowing access through controlled methods (getters/setters).
 Example: Using private fields with public getter and setter methods.
-Inheritance
+
+# Inheritance
 
 Definition: Inheritance allows one class (child) to acquire the properties and methods of another class (parent), forming a hierarchy.
 Purpose: Promotes code reuse and allows for extending existing code without modification.
 Example: Dog class inheriting Animal class properties.
-Polymorphism
+
+# Polymorphism
 
 Definition: Polymorphism allows objects to be treated as instances of their parent class while enabling them to call overridden methods specific to their actual class.
 Purpose: Enables flexibility and efficient code reuse with a common interface for different implementations.
 Example: A sound() method could be implemented differently for Dog and Cat subclasses.
-Abstraction
+
+# Abstraction
 
 Definition: Abstraction hides complex implementation details and exposes only essential features to interact with an object.
 Purpose: Simplifies code by allowing interaction through simplified interfaces, focusing on what the object does rather than how.
